@@ -58,5 +58,7 @@ public class HeartRate {
 		System.out.println("Doğum yılı: "+ dogumyili);
 		System.out.println("Mhr: "+ maxHeartRate());
 		System.out.println("thr: "+ targetHeartRate());		
+		
+
 	}
 }
